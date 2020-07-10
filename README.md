@@ -1,2 +1,1 @@
-# com.nero.docker-compose
-演示使用docker-compose编排服务
+# docker-compose up 可以同时运行compose文件中服务
